@@ -1,3 +1,5 @@
+package strategyPattern;
+
 public class Order{
     private Double orderAmount;
     private PaymentType paymentType;

@@ -1,3 +1,5 @@
+package strategyPattern;
+
 public class Cash implements PaymentType{
     public String calculatePayment(){
         
