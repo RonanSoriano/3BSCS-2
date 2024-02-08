@@ -1,6 +1,6 @@
 package strategyLabActivity;
 
-public class defenseStrat {
-    
+public class DefenseStrat {
+
     
 }

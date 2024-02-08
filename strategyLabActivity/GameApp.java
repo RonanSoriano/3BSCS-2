@@ -17,6 +17,8 @@ public class GameApp {
 
         angelo.attack();
         angelo.defend();
+
+        AttackType.sw
     }
     
 }

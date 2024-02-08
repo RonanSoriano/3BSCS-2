@@ -4,7 +4,7 @@ public class Knight implements AttackType{
 
     @Override
     public void attack(){
-        swing.attack();
+        Swing.attack();
       }
     
       public void defend(){

@@ -1,6 +1,6 @@
 package strategyLabActivity;
 
-public class swing implements AttackType{
+public class Swing implements AttackType{
    
     @Override
     public void attack(){
